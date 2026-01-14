@@ -6,6 +6,10 @@
 
 &nbsp;
 
+![GitHub Contributions](https://ghchart.rshah.org/6f42c1/juancamilo11)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juancamilo11&theme=github-dark)
+
 ## &nbsp;👨🏻‍💻 About Me:
 
 <img alt="Night Coding" src="./assets/gifs/night-coding.gif" align="right"/>
