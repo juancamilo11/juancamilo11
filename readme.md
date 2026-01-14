@@ -6,7 +6,7 @@
 
 &nbsp;
 
-![GitHub Contributions](https://ghchart.rshah.org/6f42c1/juancamilo11)
+<img src="https://ghchart.rshah.org/6f42c1/juancamilo11" wid />
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juancamilo11&theme=github-dark)
 
