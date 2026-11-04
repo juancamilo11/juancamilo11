@@ -1,34 +1,11 @@
-![Greeting](./assets/images/greeting.png)
-
-<img alt="Night Coding" src="./assets/gifs/hacker-cat.gif" width='100' align="left" /><h2>&nbsp;Hey there! I'm Juan Cardona</h2>
-
-### &nbsp; Welcome to my GitHub Profile!
-
-&nbsp;
-
-<img src="https://ghchart.rshah.org/6f42c1/juancamilo11" wid />
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juancamilo11&theme=github-dark)
-
 ## &nbsp;👨🏻‍💻 About Me:
 
 <img alt="Night Coding" src="./assets/gifs/night-coding.gif" align="right"/>
 
-💡 &nbsp;Software Developer with 5+ years of experience building scalable, high-concurrency systems and digital products.\
+💡 &nbsp;Software Engineer with 6+ years of experience building scalable, high-concurrency systems and digital products.\
 🏢 &nbsp;Background in enterprise environments, including retail and banking (Grupo Éxito, Banco Pichincha).\
-🚀 &nbsp;Currently leading the Software Development vertical at 7source, delivering end-to-end solutions for multiple clients.\
-⚙️ &nbsp;Experienced with Spring Boot, WebFlux, React, React Native, MongoDB, RabbitMQ, and Azure.\
 🌱 &nbsp;Focused on system architecture, distributed systems, and cloud-native development.\
 💬 &nbsp;Always open to technical discussions and collaboration.
-
-## &nbsp;🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanccc-dev)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JuanCamiloDev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juancamilo_dev)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](mailto:juancamilo19997814@gmail.com)
-
-<!-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](__) -->
 
 ## 💻 Tech Stack:
 
@@ -134,14 +111,3 @@
 ![Slack](https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack)
 ![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord)
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/juancamilo11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juancamilo11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juancamilo11&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=juancamilo11&theme=dark&hide_border=false" />
-</a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
