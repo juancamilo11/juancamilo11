@@ -1,11 +1,21 @@
-## &nbsp;👨🏻‍💻 About Me:
+<img
+  src="./assets/images/greeting.png"
+  width="100%"
+  alt="Greeting"
+/>
 
-<img alt="Night Coding" src="./assets/gifs/setup.gif" align="right"/>
+<h2>👨🏻‍💻 About Me:</h2>
 
-💡 &nbsp;Software Engineer with 6+ years of experience building scalable, high-concurrency systems and digital products.\
-🏢 &nbsp;Experience across fintech, banking, retail, logistics, and IT consulting.\
-🌱 &nbsp;Focused on system architecture, distributed systems, and cloud-native development.\
+💡 &nbsp;Software Engineer with 6+ years of experience building scalable, high-concurrency systems and digital products.<br/>
+🏢 &nbsp;Experience across fintech, banking, retail, logistics, and IT consulting.<br/>
+🌱 &nbsp;Focused on system architecture, distributed systems, and cloud-native development.<br/>
 💬 &nbsp;Always open to technical discussions and collaboration.
+
+<img
+  src="./assets/images/logos.png"
+  width="100%"
+  alt="Night Coding"
+/>
 
 ## 💻 Tech Stack:
 
@@ -75,6 +85,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -110,4 +121,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-611f69?style=for-the-badge&logo=slack)
 ![Discord](https://img.shields.io/badge/Discord-05122A?style=for-the-badge&logo=discord)
-
