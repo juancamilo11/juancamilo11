@@ -1,9 +1,9 @@
 ## &nbsp;👨🏻‍💻 About Me:
 
-<img alt="Night Coding" src="./assets/gifs/night-coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/gifs/setup.gif" align="right"/>
 
 💡 &nbsp;Software Engineer with 6+ years of experience building scalable, high-concurrency systems and digital products.\
-🏢 &nbsp;Background in enterprise environments, including retail and banking (Grupo Éxito, Banco Pichincha).\
+🏢 &nbsp;Experience across fintech, banking, retail, logistics, and IT consulting.\
 🌱 &nbsp;Focused on system architecture, distributed systems, and cloud-native development.\
 💬 &nbsp;Always open to technical discussions and collaboration.
 
